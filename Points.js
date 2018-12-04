@@ -19,8 +19,8 @@ function basePoints() {
 }
 
 function timerBonus() {
-        Console.log("The current bonus points given are: " + bonusPoints);
-        Console.log("Create a slider to adjust the bonus points given max");
+    Console.log("The current bonus points given are: " + bonusPoints);
+    Console.log("Create a slider to adjust the bonus points given max");
 }
 
 Points();
