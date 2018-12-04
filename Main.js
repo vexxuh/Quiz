@@ -1,7 +1,7 @@
 
 
 function gabePlayMain() {
-    Console.log("OwO");
+    console.log("OwO");
 }
 
-main();
+gabePlayMain();
