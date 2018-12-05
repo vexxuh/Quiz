@@ -1,11 +1,11 @@
 // Name and Password from the register-form
 var name = document.getElementById('name').value();
-var pw = document.getElementById('pw').value();
+var psw = document.getElementById('psw').value();
 
 let userPass = new Map();
 // storing input from register-form
 function store() {
-    userPass.set(name, pw);
+    userPass.set(name, psw);
 }
 
 store();
