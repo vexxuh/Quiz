@@ -8,8 +8,9 @@ function store() {
     userPass.set(name, pw);
 }
 
-// check if stored data from register-form is equal to entered data in the   login-form
+store();
 
+// check if stored data from register-form is equal to entered data in the   login-form
 console.log(userPass.toString());
 
 
