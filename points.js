@@ -1,8 +1,4 @@
 // Create a slider for the number of points you can get for both base points and the timer bonus points
-import Timer from "./timer";
-
-const timer = new Timer();
-
 let basePoints = 10;
 let setBonusPoints = 5;
 let bonusPoints = 0;
