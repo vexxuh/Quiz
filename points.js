@@ -5,10 +5,11 @@ let basePoints = 10;
 let setBonusPoints = 5;
 let bonusPoints = 0;
 let totalPoints;
-
 let maxTime = 10000;
-const timerVar = setInterval(Timer.countTimer(), maxTime);
+
 Timer.countTimer = function() {};
+const timerVar = setInterval(Timer.countTimer(), maxTime);
+
 
 function points() {
     bonusPoints = setBonusPoints / timerVar;
