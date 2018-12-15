@@ -1,5 +1,15 @@
-var user = [5];
+var totalUsers = 4;
+var currentUser = 0;
+var input = false;
+
+if (input === true) {
+    userBuzzIn();
+}
 
 function userBuzzIn() {
-    user.push();
+    if (currentUser < totalUsers) {
+        currentUser++;
+        bonusPoints--;
+    }
+
 }
