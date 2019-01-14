@@ -65,6 +65,7 @@
         <option value="$PROJECT_DIR$/userBuzzer.js" />
         <option value="$PROJECT_DIR$/Misc/main.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Scorekeeper.js" />
       </list>
     </option>
   </component>
@@ -153,12 +154,12 @@
       <workItem from="1547218087089" duration="1912000" />
       <workItem from="1547241299782" duration="671000" />
       <workItem from="1547476736086" duration="603000" />
-      <workItem from="1547498061659" duration="2012000" />
+      <workItem from="1547498061659" duration="3707000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24067000" />
+    <option name="totallyTimeSpent" value="25762000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -210,6 +211,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.js">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scorekeeper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
