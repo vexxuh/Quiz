@@ -1,35 +1,4 @@
-// just some temp questions to fill my void
-const myQuestions = [
-    {
-        question: "Who is the strongest?",
-        answers: {
-            a: "Superman",
-            b: "The Terminator",
-            c: "Waluigi, obviously"
-        },
-        correctAnswer: "c"
-    },
-    {
-        question: "What is the best site ever created?",
-        answers: {
-            a: "SitePoint",
-            b: "Simple Steps Code",
-            c: "Trick question; they're both the best"
-        },
-        correctAnswer: "c"
-    },
-    {
-        question: "Where is Waldo really?",
-        answers: {
-            a: "Antarctica",
-            b: "Exploring the Pacific Ocean",
-            c: "Sitting in a tree",
-            d: "Minding his own business, so stop asking"
-        },
-        correctAnswer: "d"
-    }
-];
-
+// primary method of constructing and creating the Quiz from the input questions.
 function buildQuiz() {
     // we'll need a place to store the HTML output
     const output = [];
